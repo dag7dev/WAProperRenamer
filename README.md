@@ -1,5 +1,5 @@
 # WAProperRenamer
-Given Whatsapp Images folder, or any folder you like, it renames each file
+Simple Python script which given 'Whatsapp Images' folder, or any folder you like, it renames each file
 from Whatsapp format to a standard one, basing itself on last modified date.
 
 Ex.  IMG-YYYYMMDD-WAXXXX => IMG-YYYYMMDD-HHMMSS
