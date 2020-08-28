@@ -1,7 +1,4 @@
 # WAProperRenamer
-simple photos renamer
-
-## What it does
 Given Whatsapp Images folder, or any folder you like, it renames each file
 from Whatsapp format to a standard one, basing itself on last modified date.
 
