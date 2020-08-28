@@ -9,11 +9,13 @@ You will need Python3 to run this script.
 
 **DO NOT** try to run it with Python2 because it won't work.
 
+
 If you have ```git```, clone this repo with:
 
 ```git clone https://github.com/dag7dev/WAProperRenamer.git```
 
 and place this script wherever you want.
+
 
 If you don't have git, [click here](https://github.com/dag7dev/WAProperRenamer/archive/master.zip) and place this script wherever you want.
 
